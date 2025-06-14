@@ -1,6 +1,11 @@
-## English
+
+---
 
 # 👨‍💼 Spring Boot REST API for Employee Management
+
+---
+
+## English
 
 This is a simple Spring Boot REST API project designed to manage a list of employees stored in-memory using Java configuration. You can perform basic CRUD operations (Create, Read, Update, Delete) via REST endpoints.
 
@@ -32,16 +37,17 @@ This is a simple Spring Boot REST API project designed to manage a list of emplo
 | PUT    | `/rest/api/employee/update-mapping/{ID}` | Update employee         |
 | DELETE | `/rest/api/employee/delete-employee/{ID}` | Delete employee         |
 
-## ▶️ How to Run
+### License
 
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+This project is licensed under the MIT License.
 
-## Türkçe
+---
 
 # 👨‍💼 Spring Boot REST API ile Çalışan Yönetimi
+
+---
+
+## Türkçe
 
 Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş, bellekte (`in-memory`) çalışan basit bir çalışan yönetim sistemidir. Çalışan bilgileri başlangıçta yüklü olarak gelir ve REST API aracılığıyla CRUD işlemleri yapılabilir.
 
@@ -72,13 +78,8 @@ Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş, bellekte (`in-memor
 | PUT    | `/rest/api/employee/update-mapping/{ID}` | Çalışan bilgilerini günceller    |
 | DELETE | `/rest/api/employee/delete-employee/{ID}`| Çalışanı siler                   |
 
-## ▶️ Nasıl Çalıştırılır?
+### Lisans
 
-1. Depoyu klonla:
-   ```bash
-   git clone https://github.com/<kullanici-adin>/<repo-adi>.git
-   cd <repo-adi>
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
-
-
-
+---
